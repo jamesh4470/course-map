@@ -55,6 +55,7 @@ See [the actual UW page](https://spanport.wisc.edu/placement-and-retros/) for up
 ---
 
 ### Running a DARS audit
+
 A DARS audit will tell you what you have completed and what you still need to graduate. To run a DARS audit, go to Course Search & Enroll at https://enroll.wisc.edu, and select "Degree Audit (DARS)" at the top of the page. Then follow these steps to see what you would need for a given degree plan:
 
 ![DARS audit](dars-audit.jpg)
