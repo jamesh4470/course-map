@@ -67,4 +67,4 @@ During the semester, drop by the [Undergraduate Projects Lab (UPL)](https://www.
 
 ---
 
-<small>Created by [Michael Noguera](https://noguera.dev) as an unofficial resource for those going to SOAR. Created June 2022. Last updated September 2024.</small>
+<small>Created by [Michael Noguera](https://noguera.dev) as an unofficial resource for those going to SOAR. Created June 2022. Last updated May 2026.</small>
