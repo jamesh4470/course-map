@@ -31,7 +31,7 @@ About the courses:
 - **CS 252** explores how computers work from the transistor up, and teaches a simulated "LC3" assembly language as well as RISC-V.
   - The textbook used is Patt and Patel's *Introduction to Computing Systems* (9780072467505).
   - Slides from past teachings of this course can be found online. See: [Ibrahim '17](https://pages.cs.wisc.edu/~adilgsm/cs252/Fall2017/)
-  - Some sections now teach in simulated RISC-V instead.
+  - Some sections now teach in simulated RISC-V instead of LC3.
 - **CS 354** (my favorite) is a traditional intro systems course. In this class, you become intimately familiar with memory management and the processor, as well as C programming and reading x86-64 assembly.
   - The textbook is [*Computer Systems: A Programmer's Perspective* (3e)](https://csapp.cs.cmu.edu). [K&R](https://en.wikipedia.org/wiki/The_C_Programming_Language) is also listed as a supplemental text.
   - See these past semesters' materials for an idea of the topics covered: [Gerald '18](https://pages.cs.wisc.edu/~gerald/cs354/Spring18/), [Doescher '21](https://www.youtube.com/channel/UCnZQK7axg01G1b1v4xEQp9A)
